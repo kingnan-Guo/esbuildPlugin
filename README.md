@@ -1,6 +1,7 @@
 # esbuildPlugin
 esbuild
 
+初识 esbuild  使用 esbuild 学习打包 jsx  js  ts 
 
 app.jsx;
 npx esbuild app.jsx  --bundle --outfile=out.js --loader:.js=jsx  --minify
